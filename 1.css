@@ -1,0 +1,44 @@
+*{
+	padding:0;
+	margin:0;
+	font-size: 35px;
+	}
+
+table{
+    text-align: center;
+    width: 400px;
+    height: 650px;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+    border-collapse: collapse;
+}
+#display{
+    height: 150px;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+	background:#545151;
+}
+.style1{
+    width:25%;
+    background: #ABABAB;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+.style2{
+    width:25%;
+    background: #FF8F2A;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+.style3{
+    width:25%;
+    background: #E6E6E6;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+
